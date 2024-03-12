@@ -1,2 +1,4 @@
-# julia_test
-练习Julia语言
+# julia语言学习笔记分享
+
+这里会不断更新我在Julia语言的学习过程中的一些练习代码以及注释说明
+希望更多的朋友可以成为Julia语言生态的贡献者，学Julia、用Julia、发扬Julia
